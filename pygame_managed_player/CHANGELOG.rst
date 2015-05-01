@@ -2,6 +2,20 @@
 Changelog for package pygame_managed_player
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.23 (2015-04-27)
+-------------------
+
+0.0.22 (2015-04-22)
+-------------------
+* add the `notify_all()` on stop event to fix `#89 <https://github.com/strands-project/strands_ui/issues/89>`_
+* Contributors: Marc Hanheide
+
+0.0.21 (2015-04-15)
+-------------------
+
+0.0.20 (2015-04-10)
+-------------------
+
 0.0.19 (2015-03-31)
 -------------------
 * fixes `#81 <https://github.com/strands-project/strands_ui/issues/81>`_: add priorities announcements on pause and new stop() method

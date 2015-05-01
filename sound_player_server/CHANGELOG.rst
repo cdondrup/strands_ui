@@ -2,6 +2,22 @@
 Changelog for package sound_player_server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.23 (2015-04-27)
+-------------------
+
+0.0.22 (2015-04-22)
+-------------------
+
+0.0.21 (2015-04-15)
+-------------------
+* Namespaced sound_player_server service
+* Contributors: Nils Bore
+
+0.0.20 (2015-04-10)
+-------------------
+* Adding launch dir to install targets
+* Contributors: Christian Dondrup
+
 0.0.19 (2015-03-31)
 -------------------
 * [sound_player_server] Enabling configuration of priority and volume
